@@ -26,7 +26,11 @@
     echo '<h1>My Hobby is: '.$hobby.'</h1>';
     ?>
 
-    <button type="button" class="btn btn-outline-primary"><a href="array.php" target="_blank" rel="noopener noreferrer">Click Me</a></button>
+    <button type="button" class="btn btn-primary">Click Me</button>
+    <button type="button" class="btn btn-success">Click Me</button>
+    <button type="button" class="btn btn-warning">Click Me</button>
+    <a href="https://www.heroku.com" class="btn btn-danger" >Heroku</a>
+
     <br>
 
 <?php 
